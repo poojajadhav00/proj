@@ -6,3 +6,4 @@ print("Eat burger")
 print("eat fries")
 else:
 print("do your homework")
+print("play cricket")
