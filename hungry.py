@@ -3,8 +3,6 @@ if hungry=="yes":
 print("Eat samosa")
 print("Eat pizza")
 print("Eat burger")
+print("eat fries")
 else:
-thirsty =input("are you thirsty")
-if thirsty=="yes":
-print("drink water")
-print("drink soda")
+print("do your homework")
